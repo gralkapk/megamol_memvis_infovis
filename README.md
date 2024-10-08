@@ -6,7 +6,7 @@ The current MegaMol repo is located at: [https://github.com/UniStuttgart-VISUS/m
 ## Usage
 
 This code base is **not suitable for usage**!
-It is intended only as a repository for reference to paper below.
+It is intended only as a repository for reference to the paper below.
 
 ## Citing
 
