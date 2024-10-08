@@ -1,0 +1,2 @@
+T:\Programmierung\megamol2015\infovis\FontsIcons\DejaVuSans.ttf
+T:\Programmierung\megamol2015\infovis\FontsIcons\blender_icons16.png
